@@ -20,7 +20,7 @@ Buttons:
 ## Development details
 Game engine: Godot 4.4  
 Language: GDScript  
-
+Desktop  
 
 ## Credits
 Created by Viiuska  
