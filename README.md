@@ -3,6 +3,8 @@
 
 Save the Duck’s Marriage is a lighthearted 2D platformer game where a player helps devoted Duck on a quest to keep their beloved Honey duck happy. With each level Honey duck desires a different items. Duck must explore, collect, and deliver the correct items to keep their marriage happy.  
 
+Play the game in online: [Save the Duck's Marriage Web](https://viiuska.github.io/SaveTheDucksMarriageWeb/) 
+
 ## Gameplay
 Listen to Honey duck and collect the required items. Beware of enemies.  
 Move:  
